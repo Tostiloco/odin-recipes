@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(26, 138, 31);
+    font-size: 48px;
+}
+
+.description {
+    color: purple;
+    background-color: gold;
+}
+
+.ingredients {
+    color: yellow;
+    background-color: blue;
+}
+
+.steps {
+    color: blue;
+    background-color: red;
+}
